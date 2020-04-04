@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Đặng Thanh Trung",
+        "tel": "0905001053",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Trần Quang Văn",
+        "tel": "0905232344",
+        "permission": 2
+    },
+    {
+        "id": 1,
+        "name": "Đặng Hoàng Lan",
+        "tel": "4566001053",
+        "permission": 3
+    },
+    {
+        "id": 1,
+        "name": "Mai Hoàng Nam",
+        "tel": "0905158478",
+        "permission": 2
+    },
+    {
+        "id": 1,
+        "name": "Đặng Thị Thu Thủy",
+        "tel": "0905002344",
+        "permission": 3
+    },
+    {
+        "id": 1,
+        "name": "Trần Văn Tú",
+        "tel": "0905456233",
+        "permission": 1
+    }
+]
